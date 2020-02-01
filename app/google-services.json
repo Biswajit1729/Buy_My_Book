@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789309469496",
+    "firebase_url": "https://buy-my-book.firebaseio.com",
+    "project_id": "buy-my-book",
+    "storage_bucket": "buy-my-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789309469496:android:ed7bc8a8c6cd9ffef5c7cd",
+        "android_client_info": {
+          "package_name": "com.e.buymybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789309469496-48deadmerhojs7405091hrcunle4pf9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.buymybook",
+            "certificate_hash": "42ca204d497d8e7b43b3cf82dc8e61db61ac28fc"
+          }
+        },
+        {
+          "client_id": "789309469496-680lf2lh1kru8pjpc8mjuofv68av7c1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiGwPcuEmp5hZDp3IPQSGEhSzgVvpEjHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789309469496-680lf2lh1kru8pjpc8mjuofv68av7c1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
